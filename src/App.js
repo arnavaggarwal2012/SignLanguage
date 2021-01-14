@@ -46,8 +46,28 @@ class App extends Component {
       {/* <Particles params={particles}  className="particles"/> */}
       <div className="header"><h1>combining opposites : normal & deaf</h1></div>
       <div className="Content">
-        <div className="about"><span id="typewriter">About section 
-       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure sunt magnam, perspiciatis blanditiis, obcaecati quaerat repellat ea et a veniam nisi vel. Harum temporibus in dolore voluptatibus nulla officia fuga vel, iusto soluta alias eos! Facere necessitatibus eligendi voluptas consequuntur in molestias! Aperiam culpa eveniet commodi error vel repellat nihil?
+        <div className="about"><span id="typewriter">
+        <p>American Sign Language (ASL) is the primary language of the deaf community in North America(but not limited to those borders). It uses a combination of hand movements, facial expressions, and body posture.</p>
+<p>The Alphabet in sign language is the starting point for anyone who wants to communicate with a Deaf person.
+There are more we can do with these sign language.
+</p>
+<p>
+We can communicate underwater/space/through glass/in noisy place(where we can’t speak/communicating)
+Using the alphabet in sign language is also called finger/Hand  spelling. It is commonly used in a few different situations, such as:
+Spelling out a person's name, before you get to know their personalized 'name sign'
+Spelling out a place name or location before you get to know its designated sign
+Why this : When communicating with a Deaf person from another region (dialects and signs can be different, so being able to fingerspell is a great back-up)
+</p>
+<p>
+ASL is a common sign language – though by far not the only one – for people who are d/Deaf or hard of hearing (deaf refers to the physical condition of deafness, while Deaf refers to belonging to the Deaf community). .
+ASL “entails five parameters: handshapes, palm orientation, location (space on the body, around the signer), movement and of course, facial expressions”</p>
+
+<p>Fact : About 15% of adults in America report hearing loss, and about 1 million use sign language to communicate.</p>
+<p>Justifying the topic relation to theme : we have got theme “connecting opposites “ so in this theam we came up with idea to that we can make a project where we can initiate a helping hand to deaf 
+Don’t think it's only useful to deaf but this project  could also be used by normal people who want to communicate with deafs or can try it where we can’t talk.</p>
+
+<p>Its just like we are giving them a “virtual ear” to communicate.</p>
+
        </span>
        </div>
         <div className="inputField">
@@ -59,7 +79,7 @@ class App extends Component {
           <Images text={this.state.final}/>
         </div>
       </div>
-      <div className="footer">Made with <i class="fas fa-heart text-danger" aria-hidden="true"></i></div>
+      <div className="footer">Made with Love <i class="fas fa-heart text-danger" aria-hidden="true"></i></div>
     </div>
   );
 }}

@@ -18,6 +18,12 @@
     font-weight: 400;
     display: flex;
     justify-content: center;
+    font-size: 2rem;
+    font-weight: bolder;
+display: flex;
+justify-content: center;
+background-color: aqua;
+opacity: 0.95;
 }
 .container-m{
     border-width: 1px;
