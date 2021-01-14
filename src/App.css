@@ -10,7 +10,7 @@ body{
   background-color: #101010;
   color: white;
   letter-spacing: 3px;
-  font-family: Quicksand ;
+  font-family: rockwell;
   text-transform: uppercase;
   font-size: 15px;
   text-align: center;
@@ -39,39 +39,24 @@ body{
   height: 220px;
   margin-bottom: 30px;
   border-color: royalblue;
-  background-color: #ffffff;
-border: 1px solid black;
-opacity: 0.8;
-margin: 5%;
-font-weight: bold;
-color: #000000;
 }
 
 .inputField{
   border: 2px solid rosybrown;
+  align-items: center;
   margin-top: 50px;
   height: 80px;
   padding: 25px;
-  justify-content: center;
-  display: grid;
-  background-color: #ffffff;
-border: 1px solid black;
-opacity: 0.8;
-margin: 5%;
-font-weight: bold;
-color: #000000;
 }
 
 .images {
-  background-color: #ffffff;
-border: 1px solid black;
-opacity: 0.8;
-margin: auto;
-font-weight: bold;
-color: #000000;
-border-radius: 12px;
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-padding: 25px;
+  margin-top: 50px;
+  border-width: 2px;
+  padding: 25px;
+  border-style: solid;
+  height: 200px;
+  margin-bottom: 50px;
+  border-color: royalblue;
 }
 
 .button {
@@ -83,8 +68,6 @@ padding: 25px;
   padding: 10px 25px;
   cursor: pointer;
   background-color: rgb(135, 131, 209);
-  border-radius: 12px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .textfield{
